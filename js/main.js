@@ -32,7 +32,7 @@ overlay.addEventListener('click', () => {
     unlockScroll();
 });
 
-const mySwiper = new Swiper('.swiper-container', {
+const mySwiper = new Swiper('.swiper', {
   loop: true,
 
   // If we need pagination
